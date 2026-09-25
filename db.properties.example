@@ -1,0 +1,5 @@
+# Copy this file, rename the copy to db.properties, and put your own MySQL password below.
+# db.properties is ignored by GitHub, so your password stays private.
+db.url=jdbc:mysql://localhost:3306/microtransaction_engine?useSSL=false&allowPublicKeyRetrieval=true
+db.user=root
+db.password=YOUR_PASSWORD_HERE
