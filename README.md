@@ -4,7 +4,7 @@ CSS123P: Computer Programming 3 | Group 6
 
 A Java desktop program that simulates in-game purchases, with payment checking and fraud detection, backed by a MySQL database.
 
-## Team
+## Members
 
 - Diaz, Alan Matthew
 - Enriquez, Magnus
